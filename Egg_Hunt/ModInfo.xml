@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+    <ModInfo>
+        <Name value="Egg Hunt" />
+        <Description value="Eggs can be 'shaken' from nests in trees and harvested from chickens" />
+        <Author value="arramus" />
+        <Version value="A19" />
+		<Website value="https://community.7daystodie.com/topic/23247-egg-hunt/"/>	
+    </ModInfo>
+</xml>

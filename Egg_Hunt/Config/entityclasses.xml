@@ -1,0 +1,6 @@
+<configs>
+	<append xpath="/entity_classes/entity_class[@name='animalChicken']">
+		<drop event="Harvest" name="foodEgg" tag="butcherHarvest" prob="0.5" count="1,4"/>
+		<drop event="Harvest" name="foodEgg" tag="allToolsHarvest" prob="0.5" count="1,2"/>
+	</append>
+</configs>
